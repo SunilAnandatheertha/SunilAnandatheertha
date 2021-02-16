@@ -4,7 +4,16 @@
 - 💞️ I’m looking to collaborate on `Open source research tools for mechanics and dynamics`
 - 📫 How to reach me you may reach me at `s u n i l a n a n d a t h e e r t h a AT g m a i l DOT c o m`
 
+***I am active in the following projects***
+* Poly-XTAL Operations
+* AbaPyMat
+* Computational tools for the PhD Student
+* Engineering mechanics and dynamics
+
+
+***You can sponsor :gift_heart: my work using the ```sponsor``` at the top of repository page.***
 <!---
 SunilAnandatheertha/SunilAnandatheertha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
