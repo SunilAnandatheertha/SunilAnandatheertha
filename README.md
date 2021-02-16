@@ -11,7 +11,7 @@
 * Engineering mechanics and dynamics
 
 
-***You can sponsor :gift_heart: my work using the ```sponsor``` at the top of repository page.***
+***You can sponsor :gift_heart: my work using the ```sponsor``` at the top of a repository page.***
 <!---
 SunilAnandatheertha/SunilAnandatheertha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
