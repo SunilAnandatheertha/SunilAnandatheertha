@@ -1,15 +1,12 @@
 - 👋 Hi, I’m @SunilAnandatheertha
-- 👀 I’m interested in `Open source research tool development` and `Open source text books and educational magazines`
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on `Open source research tools for mechanics and dynamics`
-- 📫 How to reach me you may reach me at `s u n i l a n a n d a t h e e r t h a AT g m a i l DOT c o m`
+- 👀 I’m interested in `Post doctoral research`, `Teaching mathematics, continuum mechanics, rigid body mechanics and dynamics`, `Open source research tool development` and `Open source text books and educational magazines`
+- 🌱 I’m currently learning `Object Oriented Programming in MATLAB`
+- 💞️ I’m looking to collaborate on `Open source research tools for mechanics and dynamics` and research in `Integrated Computational Materials Engineering exploring structure-property relationships`
+- 📫 You may reach me at `s u n i l a n a n d a t h e e r t h a AT g m a i l DOT c o m`
 
 ***I am active in the following projects***
 * Poly-XTAL Operations
 * AbaPyMat
-* Computational tools for the PhD Student
-* Engineering mechanics and dynamics
-
 
 ***You can sponsor :gift_heart: my work using the ```sponsor``` at the top of a repository page.***
 <!---
