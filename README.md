@@ -10,3 +10,6 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunilAnandatheertha&theme=blue-green)](https://github.com/SunilAnandatheertha/github-readme-stats)
 
 ### You can sponsor :gift_heart: my work using the ```sponsor``` at the top of a repository page
+
+### CITATIONS:
+If you use PXO anywhere, please dont forget to cite it as ```Please cite PXO as: Anandatheertha, S., (2021). PXO (Poly-XTAL Operations): MATLAB Codebase to Generate, Analyse and Export Complex 2D Spatio-Temporally Gradient Grain Structures. Journal of Open Source Software, 6(63), 3190, https://doi.org/10.21105/joss.03190```
