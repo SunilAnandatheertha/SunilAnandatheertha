@@ -4,11 +4,17 @@
 
 **Please reach me at:** `sunilanandatheertha AT yahoo DOT com`; and on the following **Twitter handles:** `@polyxtalops` for Poly-XTAL operations
 
+<!---
 [![Some stats](https://github-readme-stats.vercel.app/api?username=SunilAnandatheertha&theme=blue-green)](https://github.com/SunilAnandatheertha/github-readme-stats)
+-->
 
+<!---
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunilAnandatheertha&theme=blue-green)](https://github.com/SunilAnandatheertha/github-readme-stats)
+-->
 
 **Publications from repositories**
 - `Please cite PXO as: Anandatheertha, S., (2021). PXO (Poly-XTAL Operations): MATLAB Codebase to Generate, Analyse and Export Complex 2D Spatio-Temporally Gradient Grain Structures. Journal of Open Source Software, 6(63), 3190, https://doi.org/10.21105/joss.03190`
 
+<!---
 #[![trophy](https://github-profile-trophy.vercel.app/?username=SunilAnandatheertha)](https://github.com/ryo-ma/github-profile-trophy)
+-->
