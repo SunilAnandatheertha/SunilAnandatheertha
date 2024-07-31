@@ -1,4 +1,4 @@
-**I’m @SunilAnandatheertha.** I research, develop and educate. **I am actively developing** [PXO: Poly-XTAL Operations](https://github.com/SunilAnandatheertha/PXO) and UPXO. **You can sponsor** :gift_heart: my work using the `sponsor` at the top of a repository page.
+**I’m @SunilAnandatheertha.** I research, develop and educate. **I am actively developing** [PXO: Poly-XTAL Operations](https://github.com/SunilAnandatheertha/PXO) and UPXO. **You can sponsor**  my work using the `sponsor` at the top of a repository page.
 
 **My current research emphasises** `structure-property relationships` in `Integrated Computational Materials Engineering`, dealing with `high strength engineering alloys` designed for `fatigue critical applications`, `Surface treatment processes` applied for metallic alloys and `Grain growth kinetics`.
 
