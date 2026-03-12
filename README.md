@@ -2,7 +2,7 @@
 
 **My current research emphasises** `structure-property relationships` in `Integrated Computational Materials Engineering`, dealing with `high strength engineering alloys` designed for `fatigue critical applications`, `Surface treatment processes` applied for metallic alloys and `Grain growth kinetics`.
 
-**Please reach me at:** `sunilanandatheertha AT hotmail DOT com`; and on the following **Twitter handles:** `@polyxtalops` for Poly-XTAL operations
+**Please reach me at:** `sunilanandatheertha AT gmail DOT com`; and on the following **Twitter handles:** `@polyxtalops` for Poly-XTAL operations
 
 <!---
 [![Some stats](https://github-readme-stats.vercel.app/api?username=SunilAnandatheertha&theme=blue-green)](https://github.com/SunilAnandatheertha/github-readme-stats)
