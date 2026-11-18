@@ -1,4 +1,4 @@
-**I’m @SunilAnandatheertha.** I research, develop and educate. **I am actively developing** [UPXO: YKAEA Poly-XTAL Operations](https://github.com/Design-By-Fundamentals-UKAEA/UPXO).
+**I’m @SunilAnandatheertha.** I research, develop and educate. **I am actively developing** [UPXO: UKAEA Poly-XTAL Operations](https://github.com/Design-By-Fundamentals-UKAEA/UPXO).
 
 **My current research emphasises** `structure-property relationships` in `Integrated Computational Materials Engineering`, dealing with `high strength engineering alloys` designed for `fatigue critical applications`, `Surface treatment processes` applied for metallic alloys and `Grain growth kinetics`.
 
